@@ -1,0 +1,67 @@
+CALIDAD DEL AGUA PARA COLIFORMES FECALES_subterraneas,CRITERIO,DESCRIPCION
+Excelente,COLI_FEC menor a 1.1,Agua potable. Agua no contaminada o condicion normal. No hay evidencia de alteracion en los valores de la calidad bacteriologica para el cuerpo de agua subterraneo
+Buena calidad,COLI_FEC mayor o igual de 1.1 y menor o igual a 200,"Aguas para uso recreativo con contacto primario, as¡ como para otros usos. Indicios de alteracion de la calidad bacteriologica"
+Aceptable,COLI_FEC mayor de 200 y menor o igual a 1000,Aguas con calidad admisible como fuente de abastecimiento de agua potable y para riego agricola. Muestra bajos niveles de alteracion como resultado de la actividad humana
+Contaminada,COLI_FEC mayor de 1000 y menor o igual a 10000,Aguas  con contaminacion bacteriologica. Indica alteracion substancial con respecto a la condicion normal
+Fuertemente contaminada,COLI_FEC mayor de 10000,Aguas con fuerte contaminacion bacteriologica. Alteracion severa
+CALIDAD DEL AGUA PARA SOLIDOS DISUELTOS TOTALES-SALINIZACION,CRITERIO,DESCRIPCION
+Potable - Dulce,SDT menor o igual a 1000,Agua Potable. Agua Dulce
+Ligeramente salobres,SDT mayor de 1000 y menor o igual a 2000,Aguas subterranea con bajo contenido de sales
+Salobres,SDT mayor de 2000 y menor o igual a 10000,Aguas subterranea con alto contenido de sales
+Salinas,SDT mayor de 10000,Aguas subterranea con muy alto contenido de sales
+CALIDAD DEL AGUA PARA SOLIDOS DISUELTOS TOTALES-RIEGO AGRICOLA,CRITERIO,DESCRIPCION
+Excelente para riego,SDT menor o igual a 500,Excelente para riego de todo tipo de cultivos
+Cultivos sensibles,SDT mayor de 500 y menor o igual a 1000,Apta para riego de cultivos sensibles
+Cultivos con manejo especial,SDT mayor de 1000 y menor o igual a 2000,Apta para riego de cultivos con manejo especial
+Cultivos tolerantes,SDT mayor de 2000 y menor o igual a 5000,Apta para riego de cultivos tolerantes
+Indeseable para riego,SDT mayor de 5000,Indeseable para riego
+CALIDAD DEL AGUA PARA CROMO,CRITERIO,DESCRIPCION
+Potable - Excelente,CR menor o igual a 0.05,Agua potable. Agua no contaminada o condicion normal
+No apta como FAAP,CR mayor de 0.05,Agua no apta como fuente de abastecimiento de agua potable
+CALIDAD DEL AGUA PARA CONDUCTIVIDAD,CRITERIO,DESCRIPCION
+Excelente para riego,CONDUC menor o igual a 250,Excelente para riego de todo tipo de cultivos
+Buena para riego,CONDUC mayor de 250 y menor o igual a 750,Apta para riego de cultivos sensibles
+Permisible para riego,CONDUC mayor de 750 y menor o igual a 2000,Apta para riego de cultivos con manejo especial
+Dudosa para riego,CONDUC mayor de 2000 y menor o igual a 3000,Apta para riego de cultivos tolerantes
+Indeseable para riego,CONDUC mayor de 3000,Indeseable para riego
+CALIDAD DEL AGUA PARA CADMIO,CRITERIO,DESCRIPCION
+Potable - Excelente,CD menor o igual a 0.003,Agua potable. Agua no contaminada o condicion normal
+Apta como FAAP,CD mayor de 0.003 y menor o igual a 0.005,Agua apta como fuente de abastecimiento de agua potable
+No apta como FAAP,CD mayor de 0.005,Agua no apta como fuente de abastecimiento de agua potable
+CALIDAD DEL AGUA PARA ARSENICO,CRITERIO,DESCRIPCION
+Potable - Excelente,AS menor o igual a 0.01,Agua potable. Agua no contaminada o condicion normal
+Apta como FAAP,AS mayor de 0.01 y menor o igual a 0.025,Agua apta como fuente de abastecimiento de agua potable
+No apta como FAAP,AS mayor de 0.025,Agua no apta como fuente de abastecimiento de agua potable o requiere de tratamiento para su remoci¢n.
+CALIDAD DEL AGUA PARA ALCALINIDAD,CRITERIO,DESCRIPCION
+Baja,ALC mayor o igual a 20 y menor de 75,Agua apta como fuente de abastecimiento de agua potable
+Media,ALC mayor o igual a 75 y menor o igual a 150,Agua potable. Agua no contaminada o condicion normal
+Alta,ALC mayor de 150 y menor o igual a 400,Agua apta como fuente de abastecimiento de agua potable
+Indeseable,ALC menor de 20,Agua no apta como fuente de abastecimiento de agua potable
+Indeseable como FAAP,ALC mayor de 400,Agua no apta como fuente de abastecimiento de agua potable
+CALIDAD DEL AGUA PARA PLOMO,CRITERIO,DESCRIPCION
+Potable - Excelente,PB menor o igual a 0.01,Agua potable. Agua no contaminada o condicion normal
+No apta como FAAP,PB mayor de 0.01,Agua no apta como fuente de abastecimiento de agua potable
+CALIDAD DEL AGUA PARA NITROGENO DE NITRATOS ,CRITERIO,DESCRIPCION
+Potable - Excelente,N_NO3 menor o igual a 5,Agua potable. Agua no contaminada o condicion normal
+Potable - Buena calidad,N_NO3 mayor de 5 y menor o igual a 11,Aguas con indicios de aguas residuales o fertilizantes. Condici¢n eutr¢fica-altos niveles de nutrientes. Efectos moderados en cultivos regados
+No apta como FAAP,N_NO3 mayor de 11,"Aguas superficiales con fuerte impacto de aguas residuales crudas con alta carga de nutrientes. Condici¢n hipertr¢fica, florecimientos algales que incluyen especies t¢xicas a seres vivos"
+CALIDAD DEL AGUA PARA MANGANESO,CRITERIO,DESCRIPCION
+Potable - Excelente,MN menor o igual a 0.15,Agua potable. Agua no contaminada o condicion normal
+Sin efectos en la salud - Puede dar color al agua,MN mayor de 0.15 y menor o igual a 0.4,Sin efectos en la salud - Puede dar color al agua
+Puede afectar la salud,MN mayor de 0.4,Agua no apta como fuente de abastecimiento de agua potable. Puede afectar la salud
+CALIDAD DEL AGUA PARA MERCURIO,CRITERIO,DESCRIPCION
+Potable - Excelente,HG menor o igual a 0.006,Agua potable. Agua no contaminada o condicion normal
+No apta como FAAP,HG mayor de 0.006,Agua no apta como fuente de abastecimiento de agua potable
+CALIDAD DEL AGUA PARA FLUORUROS,CRITERIO,DESCRIPCION
+Potable - Optima,FLUO mayor o igual a 0.7 y menor de 1.5,Agua potable. Agua no contaminada o condicion normal
+Media,FLUO mayor o igual a 0.4 y menor de 0.7,Agua con nivel medio de fluoruros
+Baja,FLUO mayor o igual a 0 y menor de 0.4,Agua con bajo contenido de fluoruros
+Alta,FLUO mayor o igual a 1.5,Agua no apta como fuente de abastecimiento de agua potable
+CALIDAD DEL AGUA PARA HIERRO,CRITERIO,DESCRIPCION
+Potable - Excelente,FE menor o igual a 0.3,Agua potable. Agua no contaminada o condicion normal
+Sin efectos en la salud - Puede dar color al agua,FE mayor de 0.3,Sin efectos en la salud - Puede dar color al agua
+CALIDAD DEL AGUA PARA DUREZA,CRITERIO,DESCRIPCION
+Potable - Suave,DUR menor o igual a 60,Agua potable. Bajo contenido de minerales
+Potable - Moderadamente suave,DUR mayor de 60 y menor o igual a 120,Agua potable. Moderado contenido de minerales
+Potable - Dura,DUR mayor de 120 y menor o igual a 500,"Agua potable. Alto contenido de minerales, principalmente sales de calcio? y magnesio"
+Muy dura e indeseable usos industrial y domestico,DUR mayor de 500,Agua no apta como fuente de abastecimiento de agua potable. Muy dura e indeseable usos industrial y domestico
