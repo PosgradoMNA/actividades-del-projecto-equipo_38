@@ -1,0 +1,54 @@
+
+CALIDAD DEL AGUA PARA TOXICIDAD,CRITERIO,DESCRIPCION
+No t�xico,TOX menor a 1,Agua no contaminada.Toxicidad no detectable.
+Toxicidad baja,TOX mayor o igual a 1 y menor o igual a 1.33,Toxicidad baja
+Toxicidad moderada,TOX mayor de 1.33 y menor a 5,Toxicidad moderada
+Toxicidad alta,TOX mayor o igual a 5,Toxicidad alta
+
+CALIDAD DEL AGUA PARA SST,CRITERIO ,DESCRIPCION
+Excelente, SST menor o igual a 25,"Clase de excepci�n, muy buena calidad."
+Buena calidad, SST mayor de 25 y menor o igual a 75,"Aguas superficiales con bajo contenido de solidos suspendidos, generalmente condiciones naturales. Favorece la conservacion de comunidades acuaticas y el riego agricola irrestricto."
+Aceptable, SST mayor de 75 y menor o igual a 150,Aguas superficiales con indicio de contaminacion. Con descargas de aguas residuales tratadas biologicamente. Condicion regular para peces. Riego agricola restringido.
+Contaminada, SST mayor de 150 y menor o igual a 400,Aguas superficiales de mala calidad con descargas de aguas residuales crudas. Agua con alto contenido de material suspendido.
+Fuertemente contaminada, SST mayor de 400,Aguas superficiales con fuerte impacto de descargas de aguas residuales crudas municipales y no municipales con alta carga contaminante. Mala condicion para peces.
+
+CALIDAD DEL AGUA PARA ENTEROCOCOS FECALES,CRITERIO,DESCRIPCION
+Excelente,ENTEROC menor o igual a 100,Agua no contaminada o condicion normal. No hay evidencia de alteracion en los valores de la calidad bacteriologica para el cuerpo de agua superficial.
+Buena calidad,ENTEROC mayor de 100 y menor o igual a 200,"Aguas superficiales con calidad satisfactoria para la vida acuatica y para uso recreativo con contacto primario, as� como para otros usos. Indicios de alteracion de la calidad bacteriologica."
+Contaminada,ENTEROC mayor de 200 y menor o igual a 500,Aguas superficiales con contaminacion bacteriologica. Indica alteracion substancial con respecto a la condicion normal.
+Fuertemente contaminada,ENTEROC mayor de 500,Aguas superficiales con fuerte contaminacion bacteriologica. Alteracion severa.
+
+CALIDAD DEL AGUA PARA E_COLI,CRITERIO,DESCRIPCION
+Excelente,E_COLI menor o igual a 126,Agua no contaminada o condicion normal. No hay evidencia de alteracion en los valores de la calidad bacteriologica para el cuerpo de agua superficial.
+Buena calidad,E_COLI mayor de 126 y menor o igual a 576,"Aguas superficiales con calidad satisfactoria para la vida acuatica y para uso recreativo con contacto primario, as� como para otros usos. Indicios de alteracion de la calidad bacteriologica."
+Aceptable,E_COLI mayor de 576 y menor o igual a 850,Aguas superficiales con calidad admisible como fuente de abastecimiento de agua potable y para riego agricola. Muestra bajos niveles de alteracion como resultado de la actividad humana.
+Contaminada,E_COLI mayor de 850 y menor o igual a 1000,Aguas superficiales con contaminacion bacteriologica. Indica alteracion substancial con respecto a la condicion normal.
+Fuertemente contaminada,E_COLI mayor de 1000,Aguas superficiales con fuerte contaminacion bacteriologica. Alteracion severa.
+
+CALIDAD DEL AGUA PARA DQO,CRITERIO,DESCRIPCION
+Excelente,DQO menor o igual a 10,Agua no contaminada.
+Buena calidad,DQO mayor de 10 y menor o igual a 20,Aguas superficiales con bajo contenido de materia organica biodegradable y no biodegradable.
+Aceptable,DQO mayor de 20 y menor o igual a 40,Con indicio de contaminacion. Aguas superficiales con capacidad de autodepuracion o con descargas de aguas residuales tratadas biologicamente.
+Contaminada,DQO mayor de 40 y menor o igual a 200,"Aguas superficiales con descargas de aguas residuales crudas, principalmente de origen municipal."
+Fuertemente contaminada,DQO mayor de 200,Aguas superficiales con fuerte impacto de descargas de aguas residuales crudas municipales y no municipales.
+
+CALIDAD DEL AGUA PARA DBO5,CRITERIO,DESCRIPCION
+Excelente,DBO menor o igual a 3,Agua no contaminada.
+Buena calidad,DBO mayor de 3 y menor o igual a 6,Aguas superficiales con bajo contenido de materia organica biodegradable.
+Aceptable,DBO mayor de 6 y menor o igual a 30,Con indicio de contaminacion. Aguas superficiales con capacidad de autodepuracion o con descargas de aguas residuales tratadas biologicamente.
+Contaminada,DBO mayor de 30 y menor o igual a 120,"Aguas superficiales con descargas de aguas residuales crudas, principalmente de origen municipal."
+Fuertemente contaminada,DBO mayor de 120,Aguas superficiales con fuerte impacto de descargas de aguas residuales crudas municipales y no municipales.
+
+CALIDAD DEL AGUA PARA COLI_FEC_superficiales,CRITERIO,DESCRIPCION
+Excelente,COLI_FEC menor o igual a 100,Agua no contaminada o condicion normal. No hay evidencia de alteracion en los valores de la calidad bacteriologica para el cuerpo de agua superficial.
+Buena calidad,COLI_FEC mayor de 100 y menor o igual a 200,"Aguas superficiales con calidad satisfactoria para la vida acuatica y para uso recreativo con contacto primario, as� como para otros usos. Indicios de alteracion de la calidad bacteriologica."
+Aceptable,COLI_FEC mayor de 200 y menor o igual a 1000,Aguas superficiales con calidad admisible como fuente de abastecimiento de agua potable y para riego agricola. Muestra bajos niveles de alteracion como resultado de la actividad humana.
+Contaminada,COLI_FEC mayor de 1000 y menor o igual a 10000,Aguas superficiales con contaminacion bacteriologica. Indica alteracion substancial con respecto a la condicion normal.
+Fuertemente contaminada,COLI_FEC mayor de 10000,Aguas superficiales con fuerte contaminacion bacteriologica. Alteracion severa.
+
+CALIDAD DEL AGUA PARA OXIGENO DISUELTO _porcentaje,CRITERIO,
+Excelente,OD mayor de 70 y menor o igual a 110,Excelente o rica en ox�geno.
+Buena calidad,OD mayor de 50 y menor o igual 70; OD mayor a 110 y menor o igual 120,Buena o moderada cantidad de ox�geno.
+Aceptable,OD mayor de 30 y menor o igual 50; OD mayor a 120 y menor o igual 130,Aceptable o de moderada deficiencia de ox�geno.
+Contaminada,OD mayor de 10 y menor o igual 30; OD mayor a 130 y menor o igual 150,Contaminada o con deficiencia de ox�geno.
+Fuertemente contaminada,OD menor o igual a 10; OD mayor de 150,Fuertemente contaminada o an�xica.
